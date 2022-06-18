@@ -1,2 +1,3 @@
 # belajar-git
-download git: https://git-scm.com/
+nama: Bintang Putro Wicaksono
+nim: M0520018
